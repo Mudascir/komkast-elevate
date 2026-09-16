@@ -1,20 +1,27 @@
 import { Linkedin } from "lucide-react";
+import { Link } from "@tanstack/react-router";
 import logo from "@/assets/komkast-logo.png";
 
 const quickLinks = [
-  { label: "Home", href: "#home" },
-  { label: "About Us", href: "#about" },
-  { label: "What We Do", href: "#solutions" },
-  { label: "Industries", href: "#industries" },
-  { label: "Partnerships", href: "#partnerships" },
-  { label: "Contact", href: "#contact" },
+  { label: "Home", href: "/#home" },
+  { label: "About Us", href: "/#about" },
+  { label: "What We Do", href: "/#solutions" },
+  { label: "Industries", href: "/#industries" },
+  { label: "Partnerships", href: "/#partnerships" },
+  { label: "Contact", href: "/#contact" },
 ];
+
+const legalLinks = [
+  { label: "Privacy Policy", to: "/privacy-policy" },
+  { label: "Cookie Policy", to: "/cookie-policy" },
+  { label: "Terms of Use", to: "/terms-of-use" },
+] as const;
 
 export function Footer() {
   return (
     <footer className="surface-navy">
       <div className="mx-auto max-w-7xl px-5 py-16 lg:px-8">
-        <div className="grid gap-12 md:grid-cols-[1.4fr_1fr_1fr]">
+        <div className="grid gap-12 md:grid-cols-2 lg:grid-cols-[1.4fr_1fr_1fr_1fr]">
           <div>
             <div className="inline-flex flex-col items-center">
               <div className="flex items-center gap-1">
@@ -54,6 +61,24 @@ export function Footer() {
                   >
                     {l.label}
                   </a>
+                </li>
+              ))}
+            </ul>
+          </nav>
+
+          <nav aria-label="Legal">
+            <h3 className="text-sm font-bold uppercase tracking-[0.16em] text-navy-foreground">
+              Legal
+            </h3>
+            <ul className="mt-5 space-y-3">
+              {legalLinks.map((l) => (
+                <li key={l.to}>
+                  <Link
+                    to={l.to}
+                    className="text-sm text-navy-foreground/70 transition-colors hover:text-navy-foreground"
+                  >
+                    {l.label}
+                  </Link>
                 </li>
               ))}
             </ul>
