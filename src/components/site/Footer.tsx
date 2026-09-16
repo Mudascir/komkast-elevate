@@ -3,12 +3,12 @@ import { Link } from "@tanstack/react-router";
 import logo from "@/assets/komkast-logo.png";
 
 const quickLinks = [
-  { label: "Home", href: "#home" },
-  { label: "About Us", href: "#about" },
-  { label: "What We Do", href: "#solutions" },
-  { label: "Industries", href: "#industries" },
-  { label: "Partnerships", href: "#partnerships" },
-  { label: "Contact", href: "#contact" },
+  { label: "Home", href: "/#home" },
+  { label: "About Us", href: "/#about" },
+  { label: "What We Do", href: "/#solutions" },
+  { label: "Industries", href: "/#industries" },
+  { label: "Partnerships", href: "/#partnerships" },
+  { label: "Contact", href: "/#contact" },
 ];
 
 const legalLinks = [
