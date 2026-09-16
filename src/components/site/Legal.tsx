@@ -167,7 +167,7 @@ export function LegalLayout({
             ))}
           </nav>
 
-          <ActionButton href="/#contact" className="hidden h-10 px-5 sm:inline-flex">
+          <ActionButton href="/#contact" className="inline-flex h-9 px-4 text-xs sm:h-10 sm:px-5 sm:text-sm">
             Book a Consultation
           </ActionButton>
         </div>
