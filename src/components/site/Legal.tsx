@@ -10,6 +10,8 @@ import { Footer } from "./Footer";
 export type LegalBlock = {
   id: string;
   heading: string;
+  /** Displayed clause number; defaults to the block's position. */
+  number?: string;
   content: ReactNode;
 };
 
@@ -233,11 +235,11 @@ export function LegalLayout({
           </nav>
 
           <article className="glass-panel rounded-3xl p-6 sm:p-10">
-            {blocks.map((b) => (
+            {blocks.map((b, i) => (
               <section key={b.id} id={b.id} className="scroll-mt-24 pt-10 first:pt-0">
                 <h2 className="flex items-baseline gap-3 font-display text-lg font-bold tracking-tight text-foreground sm:text-xl">
                   <span className="text-gradient text-sm font-extrabold tabular-nums">
-                    {String(blocks.indexOf(b) + 1).padStart(2, "0")}
+                    {b.number ?? String(i + 1)}
                   </span>
                   {b.heading}
                 </h2>
