@@ -136,7 +136,7 @@ export function LegalLayout({
 
   return (
     <div className="min-h-screen bg-background">
-      <header className="sticky top-0 z-50 border-b border-navy-foreground/10 bg-navy-deep/80 backdrop-blur-2xl backdrop-saturate-150">
+      <header className="sticky top-0 z-50 border-b border-navy-foreground/10 bg-navy-deep">
         <div className="mx-auto flex h-16 max-w-7xl items-center justify-between gap-4 px-5 lg:px-8">
           <Link
             to="/"
