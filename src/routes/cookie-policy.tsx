@@ -68,6 +68,7 @@ const blocks: LegalBlock[] = [
   },
   {
     id: "strictly-necessary",
+    number: "3.1",
     heading: "Strictly Necessary Cookies",
     content: (
       <>
@@ -101,6 +102,7 @@ const blocks: LegalBlock[] = [
   },
   {
     id: "functional",
+    number: "3.2",
     heading: "Functional Cookies",
     content: (
       <>
@@ -121,6 +123,7 @@ const blocks: LegalBlock[] = [
   },
   {
     id: "analytics",
+    number: "3.3",
     heading: "Analytics and Performance Cookies",
     content: (
       <>
@@ -147,6 +150,7 @@ const blocks: LegalBlock[] = [
   },
   {
     id: "marketing",
+    number: "3.4",
     heading: "Marketing and Advertising Technologies",
     content: (
       <>
@@ -167,6 +171,7 @@ const blocks: LegalBlock[] = [
   },
   {
     id: "third-party",
+    number: "4",
     heading: "Third-Party Cookies and Technologies",
     content: (
       <>
@@ -184,6 +189,7 @@ const blocks: LegalBlock[] = [
   },
   {
     id: "cookie-consent",
+    number: "5",
     heading: "Cookie Consent",
     content: (
       <>
@@ -206,6 +212,7 @@ const blocks: LegalBlock[] = [
   },
   {
     id: "managing-cookies",
+    number: "6",
     heading: "Managing Cookies",
     content: (
       <>
@@ -227,6 +234,7 @@ const blocks: LegalBlock[] = [
   },
   {
     id: "preference-changes",
+    number: "7",
     heading: "Cookie Preference Changes",
     content: (
       <>
@@ -243,6 +251,7 @@ const blocks: LegalBlock[] = [
   },
   {
     id: "current-position",
+    number: "8",
     heading: "Current Website Position",
     content: (
       <>
@@ -264,6 +273,7 @@ const blocks: LegalBlock[] = [
   },
   {
     id: "changes",
+    number: "9",
     heading: "Changes to This Cookie Policy",
     content: (
       <>
@@ -286,6 +296,7 @@ const blocks: LegalBlock[] = [
   },
   {
     id: "contact-us",
+    number: "10",
     heading: "Contact Us",
     content: (
       <>
