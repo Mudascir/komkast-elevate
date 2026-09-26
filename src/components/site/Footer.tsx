@@ -38,7 +38,7 @@ export function Footer() {
               Building Stronger Relationships Through Intelligent Customer Engagement.
             </p>
             <a
-              href="https://www.linkedin.com/"
+              href="https://www.linkedin.com/company/komkast/"
               target="_blank"
               rel="noreferrer"
               aria-label="KomKast on LinkedIn"
