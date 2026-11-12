@@ -28,6 +28,9 @@ import {
 } from "lucide-react";
 import { Reveal } from "./Reveal";
 import { ActionButton } from "./ActionButton";
+import { Link } from "@tanstack/react-router";
+import { Button } from "@/components/ui/button";
+import { products } from "@/lib/products";
 
 function Eyebrow({ children }: { children: string }) {
   return (
@@ -41,17 +44,17 @@ const pillars = [
   {
     icon: Compass,
     title: "Purpose",
-    body: "To help businesses build stronger relationships through intelligent communication, trusted customer engagement, and innovative technology that creates lasting value.",
+    body: "To empower businesses through intelligent technology, effective communication, customer engagement and AI-powered automation that create lasting value for customers, partners and communities.",
   },
   {
     icon: Target,
     title: "Vision",
-    body: "To become a globally trusted leader in customer engagement, transforming how businesses connect, communicate, and build lasting relationships.",
+    body: "To become a globally trusted technology company, enabling businesses to connect, communicate, automate and grow through intelligent and innovative solutions.",
   },
   {
     icon: Rocket,
     title: "Mission",
-    body: "To empower organizations with intelligent customer engagement solutions that strengthen relationships, enhance experiences, accelerate growth, and create meaningful employment opportunities.",
+    body: "To develop and deliver innovative technology products and solutions that strengthen business communication, enhance customer experiences, simplify operations, accelerate business growth, create meaningful employment opportunities and contribute positively to society and the global economy.",
   },
 ];
 
@@ -63,17 +66,17 @@ export function About() {
           <Reveal>
             <Eyebrow>Who We Are</Eyebrow>
             <h2 className="mt-4 text-3xl font-extrabold leading-tight sm:text-4xl">
-              A Customer Engagement Company
+              Technology for communication, engagement and growth
             </h2>
           </Reveal>
           <Reveal delay={100} className="space-y-5 text-lg leading-relaxed text-muted-foreground">
             <p>
-              KomKast Global Technologies LLC empowers organizations to build stronger customer
-              relationships through intelligent communication, AI-driven engagement, automation, and
-              innovative digital technologies.
+              KomKast Global Technologies LLC is a technology company focused on business communication, AI-enabled customer engagement, CRM and business automation solutions for businesses worldwide.
             </p>
+            <p>Our primary commercial product, BotNFlow, brings customer interactions, sales and support operations and workflow automation together in one connected platform.</p>
+            <Button asChild variant="link" className="h-auto p-0 text-base"><Link to="/about">Explore our company profile</Link></Button>
             <p className="font-display text-xl font-semibold text-foreground">
-              Technology is our capability — not our identity.
+              Practical, scalable solutions for SMBs through large enterprises.
             </p>
           </Reveal>
         </div>
@@ -218,46 +221,14 @@ export function Values() {
 /* ---------------- Solutions ---------------- */
 
 const solutions = [
-  {
-    icon: Bot,
-    title: "AI Automation Solutions",
-    body: "Intelligent automation that removes friction across service, sales, and operations.",
-  },
-  {
-    icon: Users,
-    title: "Customer Engagement Solutions & Platforms",
-    body: "Engagement platforms that unify every customer conversation and touchpoint.",
-  },
-  {
-    icon: Radio,
-    title: "CPaaS Solutions",
-    body: "Communications platform capabilities embedded directly into your products and journeys.",
-  },
-  {
-    icon: MessageSquareMore,
-    title: "Conversational AI",
-    body: "AI assistants that understand intent and resolve requests in natural language.",
-  },
-  {
-    icon: Mic,
-    title: "Voice AI",
-    body: "Natural, human-like voice experiences for inbound and outbound engagement.",
-  },
-  {
-    icon: Workflow,
-    title: "Workflow Automation",
-    body: "Automated processes that connect teams, systems, and customer outcomes.",
-  },
-  {
-    icon: RouteIcon,
-    title: "Business Messaging (Omnichannel)",
-    body: "One consistent conversation across messaging, chat, email, and voice channels.",
-  },
-  {
-    icon: Cpu,
-    title: "Digital Transformation Consulting",
-    body: "Advisory that turns engagement strategy into pragmatic, measurable delivery.",
-  },
+  { icon: Users, title: "Customer Engagement & Communication", body: "Unified conversations across WhatsApp, email, SMS, voice and website live chat." },
+  { icon: Building2, title: "CRM & Sales Pipeline", body: "Contact management, customer history, opportunities, deals and sales pipeline visibility." },
+  { icon: Target, title: "Lead Generation & Qualification", body: "Lead discovery, website analysis, enrichment, profiling and scoring." },
+  { icon: Bot, title: "AI Chatbots & Conversational Automation", body: "Business knowledge-based responses, custom AI instructions and automated customer interactions." },
+  { icon: Workflow, title: "No-Code Workflow Automation", body: "Connect business activities and automate follow-ups, notifications, reminders and tasks." },
+  { icon: Mic, title: "Calling & Sales Dialer", body: "Browser-based inbound and outbound calling, call recording, dialer and callback management within BotNFlow." },
+  { icon: MessageSquareMore, title: "Campaigns & Customer Follow-Ups", body: "WhatsApp, email and SMS campaigns with audience targeting and automated follow-up sequences." },
+  { icon: Compass, title: "Bookings, Analytics & Operational Control", body: "Booking pages, calendars, reminders, activity tracking, alerts and operational visibility." },
 ];
 
 export function Solutions() {
@@ -269,6 +240,11 @@ export function Solutions() {
           <h2 className="mt-4 text-3xl font-extrabold leading-tight sm:text-4xl">
             Intelligent engagement, delivered end-to-end
           </h2>
+        </Reveal>
+        <Reveal className="mt-10 border-l-2 border-teal pl-6">
+          <p className="text-xs font-semibold uppercase text-primary">Primary Commercial Product</p>
+          <h3 className="mt-3 text-3xl font-bold">{products[0].name}</h3>
+          <p className="mt-3 max-w-3xl text-lg leading-relaxed text-muted-foreground">{products[0].description} Built for marketing, sales and customer support teams, with white-label branding, custom domains and website live chat.</p>
         </Reveal>
         <div className="mt-14 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
           {solutions.map((s, i) => (
@@ -285,6 +261,15 @@ export function Solutions() {
             </Reveal>
           ))}
         </div>
+        <div className="mt-12 border-t border-border pt-8">
+          <h3 className="text-xl font-bold">Planned Products & Future Roadmap</h3>
+          <p className="mt-3 text-muted-foreground">These products will be introduced as they progress towards commercial readiness.</p>
+          <div className="mt-6 grid gap-6 sm:grid-cols-2">{products.filter(product => product.status === "planned").map(product => <div key={product.name} className="border-l-2 border-border pl-5">
+            <p className="text-xs font-semibold uppercase text-primary">Planned · Not yet commercially available</p>
+            <h4 className="mt-2 text-lg font-bold">{product.name}</h4>
+            <p className="mt-2 text-sm leading-relaxed text-muted-foreground">{product.description}</p>
+          </div>)}</div>
+        </div>
       </div>
     </section>
   );
@@ -295,13 +280,13 @@ export function Solutions() {
 const steps = [
   {
     label: "KomKast",
-    role: "Commercial Leadership + Customer Success",
-    body: "Business development, customer acquisition, solution consulting, and long-term relationship management.",
+    role: "Technology + Customer Success",
+    body: "Business understanding, solution consulting, technology and product development, and continuous innovation.",
   },
   {
-    label: "Technology Partners",
-    role: "Build & Support",
-    body: "Trusted partners design, build, and support the underlying platforms and integrations.",
+    label: "Implementation & Integration",
+    role: "Configure, Deploy & Connect",
+    body: "We support customers in configuring, deploying and integrating solutions into their existing business environments.",
   },
   {
     label: "Customer Success",
@@ -318,18 +303,15 @@ export function BusinessModel() {
           <Reveal>
             <Eyebrow>How We Deliver Value</Eyebrow>
             <h2 className="mt-4 text-3xl font-extrabold leading-tight sm:text-4xl">
-              A technology-agnostic, partner-driven model
+              Business understanding. Technology expertise. Lasting value.
             </h2>
             <p className="mt-5 text-lg leading-relaxed text-muted-foreground">
-              KomKast leads customer acquisition, market development, solution consulting, and
-              long-term relationship management, while trusted technology partners design, build,
-              and support the platforms.
+              We work closely with customers to understand their objectives, identify suitable products and integration approaches, and support implementation and ongoing customer success.
             </p>
             <div className="mt-8 glass rounded-3xl p-6">
-              <h3 className="font-display text-base font-bold">Platform Independence</h3>
+              <h3 className="font-display text-base font-bold">Our Guiding Principle</h3>
               <p className="mt-2 leading-relaxed text-muted-foreground">
-                Freedom to select the best-fit technology for each client — no vendor lock-in, no
-                compromise on outcomes.
+                Treat others the way you wish to be treated. This principle guides every decision, every conversation and every relationship.
               </p>
             </div>
           </Reveal>
@@ -378,7 +360,7 @@ export function Industries() {
         <Reveal className="max-w-2xl">
           <Eyebrow>Industries We Serve</Eyebrow>
           <h2 className="mt-4 text-3xl font-extrabold leading-tight sm:text-4xl">
-            Engagement expertise across regulated and high-volume sectors
+            Supporting businesses across industries and global markets
           </h2>
         </Reveal>
         <div className="mt-14 grid gap-4 sm:grid-cols-2 lg:grid-cols-5">
@@ -403,15 +385,15 @@ export function Industries() {
 const promises = [
   {
     title: "Customer Promise",
-    body: "Secure, scalable, reliable, innovative solutions with exceptional service and long-term partnership.",
+    body: "Understanding your objectives, recommending practical solutions, delivering reliable and scalable technology, protecting customer information and providing responsive support.",
   },
   {
     title: "Partner Promise",
-    body: "Fair, transparent, collaborative relationships built on trust and shared success.",
+    body: "Fair and transparent relationships, clearly defined responsibilities, timely communication, mutual respect and shared success.",
   },
   {
-    title: "People Promise",
-    body: "A respected, empowered, growth-focused environment.",
+    title: "Our Commitment",
+    body: "Practical solutions, ethical business conduct, confidentiality, transparency and continuous improvement.",
   },
 ];
 
@@ -472,8 +454,7 @@ export function CtaBand() {
           Let's Build Something Meaningful Together
         </h2>
         <p className="mt-5 text-lg leading-relaxed text-navy-foreground/75">
-          Tell us where customer engagement should go next — we'll bring the strategy, the partners,
-          and the technology.
+          Share your business challenges — we will explore how BotNFlow or a tailored AI automation solution can help.
         </p>
         <ActionButton href="#contact" size="lg" className="mt-9">
           Get in Touch

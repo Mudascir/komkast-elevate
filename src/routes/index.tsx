@@ -13,9 +13,9 @@ import {
 import { Contact } from "@/components/site/Contact";
 import { Footer } from "@/components/site/Footer";
 
-const title = "KomKast Global Technologies | Intelligent Customer Engagement";
+const title = "KomKast Global Technologies | BotNFlow & AI Business Automation";
 const description =
-  "KomKast is a global customer engagement company delivering AI-powered communication, automation, CPaaS and conversational AI solutions for enterprises worldwide.";
+  "KomKast develops business communication, AI-enabled customer engagement, CRM and automation solutions, with BotNFlow for SMBs and enterprises worldwide.";
 
 export const Route = createFileRoute("/")({
   head: () => ({

@@ -6,7 +6,7 @@ import { openCookieSettings } from "./CookieConsent";
 
 const quickLinks = [
   { label: "Home", href: "/#home" },
-  { label: "About Us", href: "/#about" },
+  { label: "About Us", href: "/about" },
   { label: "What We Do", href: "/#solutions" },
   { label: "Industries", href: "/#industries" },
   { label: "Partnerships", href: "/#partnerships" },
@@ -33,12 +33,9 @@ export function Footer() {
                   Kom<span className="text-gradient">Kast</span>
                 </span>
               </div>
-              <span className="mt-1 text-[0.6rem] font-medium uppercase tracking-[0.22em] text-navy-foreground/60">
-                Connect. Engage. Grow.
-              </span>
             </div>
             <p className="mt-5 max-w-sm leading-relaxed text-navy-foreground/70">
-              Building Stronger Relationships Through Intelligent Customer Engagement.
+              Connecting Businesses. Enabling Conversations. Driving Growth.
             </p>
             <a
               href="https://www.linkedin.com/company/komkast/"
@@ -58,12 +55,14 @@ export function Footer() {
             <ul className="mt-5 space-y-3">
               {quickLinks.map((l) => (
                 <li key={l.href}>
+                  {l.href === "/about" ? <Link to="/about" className="text-sm text-navy-foreground/70 transition-colors hover:text-navy-foreground">{l.label}</Link> :
                   <a
                     href={l.href}
                     className="text-sm text-navy-foreground/70 transition-colors hover:text-navy-foreground"
                   >
                     {l.label}
                   </a>
+                  }
                 </li>
               ))}
             </ul>

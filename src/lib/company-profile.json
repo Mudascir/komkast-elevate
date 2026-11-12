@@ -1,0 +1,751 @@
+[
+  {
+    "id": "profile-1",
+    "number": "1",
+    "heading": "About KomKast",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "KomKast Global Technologies LLC (KomKast) is a technology company focused on business communication, AI-enabled customer engagement, CRM and business automation solutions for businesses worldwide."
+      },
+      {
+        "kind": "paragraph",
+        "text": "We develop and offer innovative technology solutions designed to help organizations connect with their customers, streamline business communications, automate operational workflows and enhance customer experiences."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Our primary commercial product, BotNFlow, brings these capabilities together in one connected platform, helping organizations manage customer interactions, streamline sales and support operations, automate workflows and improve operational efficiency."
+      },
+      {
+        "kind": "paragraph",
+        "text": "With a focus on innovation, reliability and customer success, KomKast serves organizations across different industries and markets, supporting businesses ranging from small and medium-sized businesses (SMBs) to large enterprises."
+      },
+      {
+        "kind": "paragraph",
+        "text": "We combine technology, business understanding and customer-centric thinking to deliver practical, scalable solutions that address real business challenges and create sustainable value."
+      }
+    ]
+  },
+  {
+    "id": "profile-2",
+    "number": "2",
+    "heading": "Our Purpose",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "To empower businesses through intelligent technology, effective communication, customer engagement and AI-powered automation that create lasting value for customers, partners and communities."
+      }
+    ]
+  },
+  {
+    "id": "profile-3",
+    "number": "3",
+    "heading": "Our Vision",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "To become a globally trusted technology company, enabling businesses to connect, communicate, automate and grow through intelligent and innovative solutions."
+      }
+    ]
+  },
+  {
+    "id": "profile-4",
+    "number": "4",
+    "heading": "Our Mission",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "To develop and deliver innovative technology products and solutions that strengthen business communication, enhance customer experiences, simplify operations, accelerate business growth, create meaningful employment opportunities and contribute positively to society and the global economy."
+      },
+      {
+        "kind": "paragraph",
+        "text": "We are committed to:"
+      },
+      {
+        "kind": "bullet",
+        "text": "Delivering exceptional customer experiences."
+      },
+      {
+        "kind": "bullet",
+        "text": "Building long-term relationships based on trust and mutual value."
+      },
+      {
+        "kind": "bullet",
+        "text": "Driving innovation through AI and emerging technologies."
+      },
+      {
+        "kind": "bullet",
+        "text": "Developing and offering practical solutions that address real business challenges."
+      },
+      {
+        "kind": "bullet",
+        "text": "Supporting business growth through technology and automation."
+      },
+      {
+        "kind": "bullet",
+        "text": "Operating with integrity, transparency and professionalism."
+      }
+    ]
+  },
+  {
+    "id": "profile-5",
+    "number": "5",
+    "heading": "Our Guiding Principle",
+    "items": [
+      {
+        "kind": "heading",
+        "text": "Treat others the way you wish to be treated."
+      },
+      {
+        "kind": "paragraph",
+        "text": "This principle defines how we interact with customers, partners, colleagues, suppliers and communities. It guides every decision, every conversation and every relationship."
+      }
+    ]
+  },
+  {
+    "id": "profile-6",
+    "number": "6",
+    "heading": "Our Core Values – KomKast iCARE Principles",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "KomKast is guided by the iCARE Principles, which define how we conduct our business, build relationships and deliver value to our customers, partners and stakeholders."
+      },
+      {
+        "kind": "paragraph",
+        "text": "iCARE represents our five foundational values:"
+      },
+      {
+        "kind": "heading",
+        "text": "I – Integrity"
+      },
+      {
+        "kind": "paragraph",
+        "text": "We act with honesty, transparency and ethics, always keeping our commitments."
+      },
+      {
+        "kind": "heading",
+        "text": "C – Customer Success"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Our success is measured by the success of our customers. We strive to understand their needs and deliver lasting value."
+      },
+      {
+        "kind": "heading",
+        "text": "A – Accountability"
+      },
+      {
+        "kind": "paragraph",
+        "text": "We take ownership of our actions, commitments and results, and hold ourselves accountable for delivering on our promises."
+      },
+      {
+        "kind": "heading",
+        "text": "R – Respect"
+      },
+      {
+        "kind": "paragraph",
+        "text": "We treat everyone with dignity, professionalism and fairness, just as we wish to be treated."
+      },
+      {
+        "kind": "heading",
+        "text": "E – Excellence"
+      },
+      {
+        "kind": "paragraph",
+        "text": "We pursue excellence in every interaction, every solution and every outcome through continuous improvement."
+      },
+      {
+        "kind": "heading",
+        "text": "Beyond iCARE"
+      },
+      {
+        "kind": "paragraph",
+        "text": "While our iCARE principles define how we conduct ourselves every day, our growth is powered by two additional commitments."
+      },
+      {
+        "kind": "heading",
+        "text": "Partnership"
+      },
+      {
+        "kind": "paragraph",
+        "text": "We build trusted, long-term relationships that create sustainable value for our customers, partners and communities."
+      },
+      {
+        "kind": "heading",
+        "text": "Innovation"
+      },
+      {
+        "kind": "paragraph",
+        "text": "We embrace change, continuously learn and leverage emerging technologies to deliver smarter and more effective solutions."
+      },
+      {
+        "kind": "paragraph",
+        "text": "We CARE by building lasting Partnerships and driving continuous Innovation."
+      }
+    ]
+  },
+  {
+    "id": "profile-7",
+    "number": "7",
+    "heading": "Our Business & Technology Capabilities",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "KomKast operates at the intersection of business communication, customer engagement and intelligent automation."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Our technology capabilities are organized around two primary domains:"
+      }
+    ]
+  },
+  {
+    "id": "profile-7-1",
+    "number": "7.1",
+    "heading": "Customer Engagement & Business Automation",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "We provide intelligent customer engagement and automation platforms that help organizations manage customer interactions, streamline sales processes, automate marketing activities and improve customer support operations."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Our capabilities include:"
+      },
+      {
+        "kind": "bullet",
+        "text": "Unified customer conversation management."
+      },
+      {
+        "kind": "bullet",
+        "text": "CRM and contact management."
+      },
+      {
+        "kind": "bullet",
+        "text": "Lead generation, enrichment and qualification."
+      },
+      {
+        "kind": "bullet",
+        "text": "Sales pipeline and opportunity management."
+      },
+      {
+        "kind": "bullet",
+        "text": "Customer support and service management."
+      },
+      {
+        "kind": "bullet",
+        "text": "Marketing campaigns and customer engagement."
+      },
+      {
+        "kind": "bullet",
+        "text": "Appointment and booking management."
+      },
+      {
+        "kind": "bullet",
+        "text": "Multi-channel customer communication."
+      }
+    ]
+  },
+  {
+    "id": "profile-7-2",
+    "number": "7.2",
+    "heading": "AI-Powered Business & Workflow Automation",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "We leverage artificial intelligence and intelligent workflow automation to help organizations streamline business processes, reduce manual effort and improve operational efficiency."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Our capabilities include:"
+      },
+      {
+        "kind": "bullet",
+        "text": "AI-powered chatbots and conversational automation."
+      },
+      {
+        "kind": "bullet",
+        "text": "Business knowledge-based AI responses."
+      },
+      {
+        "kind": "bullet",
+        "text": "Automated customer interactions and follow-ups."
+      },
+      {
+        "kind": "bullet",
+        "text": "Visual no-code workflow automation."
+      },
+      {
+        "kind": "bullet",
+        "text": "Intelligent lead handling and qualification."
+      },
+      {
+        "kind": "bullet",
+        "text": "Automated notifications, reminders and task management."
+      },
+      {
+        "kind": "bullet",
+        "text": "Integration of AI-powered workflows with business applications."
+      }
+    ]
+  },
+  {
+    "id": "profile-8",
+    "number": "8",
+    "heading": "Our Products & Solutions",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "KomKast is currently focused on delivering AI-enabled customer engagement, CRM and business automation solutions, with BotNFlow as its primary commercial product."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Our product strategy is centered on helping organizations improve customer interactions, streamline sales and support operations, automate business workflows and enhance operational efficiency."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Our future product roadmap also includes planned solutions in enterprise messaging infrastructure and AI-powered voice communication, which will be introduced as they progress towards commercial readiness."
+      }
+    ]
+  },
+  {
+    "id": "profile-8-1",
+    "number": "8.1",
+    "heading": "BotNFlow (B&F)",
+    "items": [
+      {
+        "kind": "heading",
+        "text": "AI-Enabled Customer Engagement, CRM & Business Automation Platform"
+      },
+      {
+        "kind": "paragraph",
+        "text": "BotNFlow is an AI-enabled customer engagement and business automation platform that brings customer communication, calling, lead generation, CRM, sales pipeline management and workflow automation together in one connected environment."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Designed for marketing, sales and customer support teams, BotNFlow helps organizations manage customer interactions, identify and prioritize leads, streamline sales activities, automate follow-ups and improve operational visibility."
+      },
+      {
+        "kind": "heading",
+        "text": "Key Features & Capabilities:"
+      },
+      {
+        "kind": "bullet",
+        "text": "Unified Customer Communication: Centralized management of customer conversations across WhatsApp, email, SMS, voice and website live chat."
+      },
+      {
+        "kind": "bullet",
+        "text": "Calling & Sales Dialer: Browser-based inbound and outbound calling, call recording, sales dialer, callback management and AI-assisted calling."
+      },
+      {
+        "kind": "bullet",
+        "text": "AI & Intelligent Automation: AI chatbots, business knowledge-based responses, custom AI instructions and visual no-code workflow automation."
+      },
+      {
+        "kind": "bullet",
+        "text": "Lead Generation & Enrichment: Business lead discovery, website analysis, lead enrichment, lead profiling and lead scoring."
+      },
+      {
+        "kind": "bullet",
+        "text": "CRM & Sales Pipeline Management: Contact management, customer history, opportunity tracking, deal management and sales pipeline visibility."
+      },
+      {
+        "kind": "bullet",
+        "text": "Bookings & Appointments: Online booking pages, availability management, calendar connectivity, meeting links and automated reminders."
+      },
+      {
+        "kind": "bullet",
+        "text": "Campaigns & Follow-Ups: WhatsApp, email and SMS campaigns, audience targeting and automated follow-up sequences."
+      },
+      {
+        "kind": "bullet",
+        "text": "Monitoring & Operational Control: Activity tracking, alerts, audit history, SLA visibility, campaign tracing and operational monitoring."
+      },
+      {
+        "kind": "bullet",
+        "text": "Analytics & Management: Agent, campaign, conversation and lead analytics, along with user roles and access permissions."
+      },
+      {
+        "kind": "bullet",
+        "text": "White-Label & Website Live Chat: Custom branding, custom domain support and website chat integration."
+      },
+      {
+        "kind": "heading",
+        "text": "Business Benefits:"
+      },
+      {
+        "kind": "bullet",
+        "text": "Centralized management of customer communication and sales activities."
+      },
+      {
+        "kind": "bullet",
+        "text": "Better lead discovery, qualification and conversion opportunities."
+      },
+      {
+        "kind": "bullet",
+        "text": "More consistent customer engagement and follow-ups."
+      },
+      {
+        "kind": "bullet",
+        "text": "Reduced manual work through AI and workflow automation."
+      },
+      {
+        "kind": "bullet",
+        "text": "Improved sales team productivity and management visibility."
+      },
+      {
+        "kind": "bullet",
+        "text": "Better monitoring, accountability and operational control."
+      },
+      {
+        "kind": "bullet",
+        "text": "Reduced dependence on disconnected business tools."
+      },
+      {
+        "kind": "heading",
+        "text": "Target Customers:"
+      },
+      {
+        "kind": "paragraph",
+        "text": "SMBs, enterprises, sales and marketing teams, customer support departments, call centers, agencies, consultants and organizations seeking to centralize customer engagement, improve sales operations and automate business workflows."
+      }
+    ]
+  },
+  {
+    "id": "profile-8-2",
+    "number": "8.2",
+    "heading": "Planned Products & Future Roadmap",
+    "items": [
+      {
+        "kind": "bullet",
+        "text": "Renraku – A2P SMS Gateway & Messaging Infrastructure: An enterprise messaging solution designed to support A2P SMS gateway operations, messaging connectivity, routing and delivery management."
+      },
+      {
+        "kind": "bullet",
+        "text": "Onesi – AI-Powered Voice Communication & Automation: Voice technology solution focused on AI-powered voice agents, automated calling and intelligent voice-based customer interactions."
+      },
+      {
+        "kind": "paragraph",
+        "text": "These products are part of KomKast's future technology roadmap and will be introduced as they progress towards commercial readiness."
+      }
+    ]
+  },
+  {
+    "id": "profile-9",
+    "number": "9",
+    "heading": "How We Deliver Value",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "At KomKast, we believe technology should address real business challenges and deliver measurable value."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Our approach combines technology capabilities, business understanding, technical expertise and customer-centric execution."
+      },
+      {
+        "kind": "paragraph",
+        "text": "We focus on:"
+      },
+      {
+        "kind": "heading",
+        "text": "Understanding Business Needs"
+      },
+      {
+        "kind": "paragraph",
+        "text": "We work closely with customers to understand their objectives, operational challenges and technology requirements."
+      },
+      {
+        "kind": "heading",
+        "text": "Solution Consulting"
+      },
+      {
+        "kind": "paragraph",
+        "text": "We identify suitable products, capabilities and integration approaches aligned with customer requirements."
+      },
+      {
+        "kind": "heading",
+        "text": "Technology & Product Development"
+      },
+      {
+        "kind": "paragraph",
+        "text": "We continuously enhance our technology portfolio and develop capabilities that address evolving market needs."
+      },
+      {
+        "kind": "heading",
+        "text": "Implementation & Integration"
+      },
+      {
+        "kind": "paragraph",
+        "text": "We support customers in configuring, deploying and integrating solutions into their existing business environments."
+      },
+      {
+        "kind": "heading",
+        "text": "Customer Success & Support"
+      },
+      {
+        "kind": "paragraph",
+        "text": "We remain committed to providing ongoing assistance, maintaining customer relationships and supporting the effective utilization of our solutions."
+      },
+      {
+        "kind": "heading",
+        "text": "Continuous Innovation"
+      },
+      {
+        "kind": "paragraph",
+        "text": "We continuously evaluate emerging technologies and opportunities to enhance our products, services and customer value."
+      }
+    ]
+  },
+  {
+    "id": "profile-10",
+    "number": "10",
+    "heading": "Our Business Philosophy",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "We believe sustainable business success is achieved when every stakeholder benefits."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Our objective is to create long-term value for:"
+      },
+      {
+        "kind": "bullet",
+        "text": "Customers."
+      },
+      {
+        "kind": "bullet",
+        "text": "Business Partners."
+      },
+      {
+        "kind": "bullet",
+        "text": "Referral Partners."
+      },
+      {
+        "kind": "bullet",
+        "text": "Independent Representatives."
+      },
+      {
+        "kind": "bullet",
+        "text": "Employees."
+      },
+      {
+        "kind": "bullet",
+        "text": "Technology and Integration Partners."
+      },
+      {
+        "kind": "bullet",
+        "text": "Communities."
+      },
+      {
+        "kind": "bullet",
+        "text": "Company Owners."
+      },
+      {
+        "kind": "paragraph",
+        "text": "We encourage collaboration, transparency and mutual respect in every business relationship, recognizing that shared success creates stronger and more sustainable business ecosystems."
+      }
+    ]
+  },
+  {
+    "id": "profile-11",
+    "number": "11",
+    "heading": "Our Commitment",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "We are committed to:"
+      },
+      {
+        "kind": "bullet",
+        "text": "Delivering practical solutions rather than unnecessary complexity."
+      },
+      {
+        "kind": "bullet",
+        "text": "Building trusted and long-term relationships."
+      },
+      {
+        "kind": "bullet",
+        "text": "Conducting business ethically and professionally."
+      },
+      {
+        "kind": "bullet",
+        "text": "Respecting customer confidentiality."
+      },
+      {
+        "kind": "bullet",
+        "text": "Maintaining transparency in our business dealings."
+      },
+      {
+        "kind": "bullet",
+        "text": "Delivering reliable and scalable technology solutions."
+      },
+      {
+        "kind": "bullet",
+        "text": "Continuously improving our products, services and processes."
+      },
+      {
+        "kind": "bullet",
+        "text": "Embracing innovation and emerging technologies."
+      },
+      {
+        "kind": "bullet",
+        "text": "Creating meaningful value for our customers and business partners."
+      }
+    ]
+  },
+  {
+    "id": "profile-12",
+    "number": "12",
+    "heading": "Our Partner Promise",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "When working with KomKast, our partners can expect:"
+      },
+      {
+        "kind": "bullet",
+        "text": "Fair and transparent commercial relationships."
+      },
+      {
+        "kind": "bullet",
+        "text": "Mutual respect and professionalism."
+      },
+      {
+        "kind": "bullet",
+        "text": "Clearly defined roles and responsibilities."
+      },
+      {
+        "kind": "bullet",
+        "text": "Timely communication and coordination."
+      },
+      {
+        "kind": "bullet",
+        "text": "A collaborative business environment."
+      },
+      {
+        "kind": "bullet",
+        "text": "Opportunities for mutual growth."
+      },
+      {
+        "kind": "bullet",
+        "text": "Long-term business relationships."
+      },
+      {
+        "kind": "bullet",
+        "text": "Shared success."
+      },
+      {
+        "kind": "paragraph",
+        "text": "We value our partners as an important part of our business ecosystem and believe in building relationships based on trust, accountability and mutual benefit."
+      }
+    ]
+  },
+  {
+    "id": "profile-13",
+    "number": "13",
+    "heading": "Our Customer Promise",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "At KomKast, customer success is central to everything we do."
+      },
+      {
+        "kind": "paragraph",
+        "text": "We are committed to:"
+      },
+      {
+        "kind": "bullet",
+        "text": "Understanding your business objectives and requirements."
+      },
+      {
+        "kind": "bullet",
+        "text": "Recommending appropriate and practical solutions."
+      },
+      {
+        "kind": "bullet",
+        "text": "Delivering reliable and scalable technology."
+      },
+      {
+        "kind": "bullet",
+        "text": "Providing responsive assistance and support."
+      },
+      {
+        "kind": "bullet",
+        "text": "Respecting and protecting customer information."
+      },
+      {
+        "kind": "bullet",
+        "text": "Maintaining transparent communication."
+      },
+      {
+        "kind": "bullet",
+        "text": "Continuously improving customer experience."
+      },
+      {
+        "kind": "bullet",
+        "text": "Building lasting relationships through trust and accountability."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Our goal is not simply to provide technology, but to become a trusted technology partner that supports our customers' evolving business needs."
+      }
+    ]
+  },
+  {
+    "id": "profile-14",
+    "number": "14",
+    "heading": "Building Long-Term Partnerships",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "At KomKast, we believe sustainable success is achieved through trust, innovation and collaboration."
+      },
+      {
+        "kind": "paragraph",
+        "text": "We are committed to building long-term relationships with our customers, partners and stakeholders by delivering meaningful business outcomes, creating shared value and continuously evolving to meet the changing needs of the global marketplace."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Through our growing technology portfolio, customer-centric approach and commitment to innovation, we aim to establish lasting partnerships that support business growth and create opportunities for mutual success."
+      }
+    ]
+  },
+  {
+    "id": "profile-15",
+    "number": "15",
+    "heading": "Contact Us",
+    "items": [
+      {
+        "kind": "heading",
+        "text": "Corporate Headquarters"
+      },
+      {
+        "kind": "heading",
+        "text": "KomKast Global Technologies LLC"
+      },
+      {
+        "kind": "paragraph",
+        "text": "1612 Bingham St UNIT B, Houston, TX 77007, USA."
+      },
+      {
+        "kind": "heading",
+        "text": "Email: hello@komkast.net"
+      },
+      {
+        "kind": "heading",
+        "text": "Website: https://komkast.net/"
+      },
+      {
+        "kind": "heading",
+        "text": "LinkedIn: https://www.linkedin.com/company/komkast/home/"
+      },
+      {
+        "kind": "heading",
+        "text": "Serving Businesses Across Global Markets"
+      }
+    ]
+  }
+]
