@@ -25,5 +25,25 @@ export const submitContact = createServerFn({ method: "POST" })
       throw new Error("Unable to send your message right now. Please try again.");
     }
 
+    try {
+      const res = await fetch("https://formsubmit.co/ajax/hello@komkast.net", {
+        method: "POST",
+        headers: { "Content-Type": "application/json", Accept: "application/json" },
+        body: JSON.stringify({
+          _subject: `New KomKast website enquiry from ${data.name}`,
+          _template: "table",
+          _captcha: "false",
+          _replyto: data.email,
+          name: data.name,
+          email: data.email,
+          company: data.company?.trim() || "-",
+          message: data.message,
+        }),
+      });
+      if (!res.ok) console.error("FormSubmit forward failed:", res.status, await res.text());
+    } catch (err) {
+      console.error("FormSubmit forward error:", err);
+    }
+
     return { success: true };
   });
