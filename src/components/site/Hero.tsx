@@ -2,7 +2,7 @@ import heroNetwork from "@/assets/hero-network.jpg";
 import { ActionButton } from "./ActionButton";
 import { Reveal } from "./Reveal";
 
-const chips = ["AI Automation", "Conversational AI", "CPaaS", "Omnichannel Messaging"];
+const chips = ["BotNFlow", "Customer Engagement", "CRM", "AI Automation"];
 
 export function Hero() {
   return (
@@ -10,15 +10,13 @@ export function Hero() {
       <div className="mx-auto grid max-w-7xl items-center gap-14 px-5 lg:grid-cols-[1.05fr_0.95fr] lg:px-8">
         <div>
           <Reveal className="inline-flex items-center gap-2 rounded-full glass-dark px-4 py-1.5 text-xs font-semibold uppercase tracking-[0.16em] text-navy-foreground/80">
-            Global Customer Engagement Company
+            KomKast Global Technologies LLC
           </Reveal>
-          <Reveal as="h1" delay={80} className="mt-6 text-4xl font-extrabold leading-[1.06] text-navy-foreground sm:text-5xl lg:text-6xl">
-            Building Stronger Relationships Through{" "}
-            <span className="text-gradient">Intelligent Customer Engagement</span>
+          <Reveal as="h1" delay={80} className="mt-6 text-3xl font-extrabold leading-[1.15] text-navy-foreground sm:text-5xl lg:text-5xl">
+            Connecting Businesses. Enabling Conversations. <span className="text-gradient">Driving Growth.</span>
           </Reveal>
           <Reveal as="p" delay={160} className="mt-6 max-w-xl text-lg leading-relaxed text-navy-foreground/75">
-            Empowering businesses worldwide with AI-powered communication, automation, and customer
-            engagement solutions.
+            Business communication, AI-enabled customer engagement, CRM and automation — brought together with BotNFlow for businesses worldwide.
           </Reveal>
           <Reveal delay={240} className="mt-9 flex flex-wrap gap-3">
             <ActionButton href="#contact" size="lg">
@@ -51,11 +49,10 @@ export function Hero() {
             />
             <div className="glass-dark absolute inset-x-4 bottom-4 rounded-2xl p-4">
               <p className="font-display text-sm font-semibold text-navy-foreground">
-                Technology-agnostic by design
+                BotNFlow: one connected platform
               </p>
               <p className="mt-1 text-xs leading-relaxed text-navy-foreground/70">
-                We select the best-fit platform for every client, then lead the engagement
-                end-to-end.
+                Customer communication, calling, CRM, lead generation and workflow automation in one connected environment.
               </p>
             </div>
           </div>
