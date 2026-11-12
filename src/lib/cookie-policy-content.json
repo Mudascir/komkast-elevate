@@ -1,0 +1,342 @@
+[
+  {
+    "id": "section-1",
+    "number": "1",
+    "heading": "Introduction",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "This Cookie Policy explains how KomKast Global Technologies LLC (\"KomKast\", \"we\", \"us\" or \"our\") may use cookies and similar technologies on its website."
+      },
+      {
+        "kind": "paragraph",
+        "text": "It explains what cookies are, why they may be used and how visitors can manage their preferences."
+      },
+      {
+        "kind": "paragraph",
+        "text": "This Policy should be read together with our Privacy Policy."
+      }
+    ]
+  },
+  {
+    "id": "section-2",
+    "number": "2",
+    "heading": "What Are Cookies?",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "Cookies are small text files that may be stored on your computer, mobile device or browser when you visit a website."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Cookies and similar technologies can help websites:"
+      },
+      {
+        "kind": "bullet",
+        "text": "Operate correctly."
+      },
+      {
+        "kind": "bullet",
+        "text": "Maintain security."
+      },
+      {
+        "kind": "bullet",
+        "text": "Remember visitor preferences."
+      },
+      {
+        "kind": "bullet",
+        "text": "Understand how visitors use the website."
+      },
+      {
+        "kind": "bullet",
+        "text": "Improve website performance."
+      },
+      {
+        "kind": "bullet",
+        "text": "Support website functionality."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Similar technologies may include pixels, tags, scripts, local storage and other tools that store or access information on your device."
+      }
+    ]
+  },
+  {
+    "id": "section-3",
+    "number": "3",
+    "heading": "Types of Cookies",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "Depending on the technologies implemented on our website, cookies may fall into the following categories."
+      }
+    ]
+  },
+  {
+    "id": "section-3-1",
+    "number": "3.1",
+    "heading": "Strictly Necessary Cookies",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "These cookies may be required for the website to function properly."
+      },
+      {
+        "kind": "paragraph",
+        "text": "They can support:"
+      },
+      {
+        "kind": "bullet",
+        "text": "Website security."
+      },
+      {
+        "kind": "bullet",
+        "text": "Network management."
+      },
+      {
+        "kind": "bullet",
+        "text": "Basic website functionality."
+      },
+      {
+        "kind": "bullet",
+        "text": "Form submission."
+      },
+      {
+        "kind": "bullet",
+        "text": "Other services requested by visitors."
+      },
+      {
+        "kind": "paragraph",
+        "text": "These cookies generally cannot be disabled through website preference controls where they are essential to the service requested."
+      }
+    ]
+  },
+  {
+    "id": "section-3-2",
+    "number": "3.2",
+    "heading": "Analytics and Performance Cookies",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "These cookies may help us understand how visitors interact with our website."
+      },
+      {
+        "kind": "paragraph",
+        "text": "They may provide information about:"
+      },
+      {
+        "kind": "bullet",
+        "text": "Pages visited."
+      },
+      {
+        "kind": "bullet",
+        "text": "Visitor navigation."
+      },
+      {
+        "kind": "bullet",
+        "text": "Website usage patterns."
+      },
+      {
+        "kind": "bullet",
+        "text": "Website performance."
+      },
+      {
+        "kind": "bullet",
+        "text": "Technical errors."
+      },
+      {
+        "kind": "paragraph",
+        "text": "This information can help us improve the website and visitor experience."
+      }
+    ]
+  },
+  {
+    "id": "section-3-3",
+    "number": "3.3",
+    "heading": "Functional and Preference Cookies",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "These cookies may remember choices or preferences made by visitors."
+      },
+      {
+        "kind": "paragraph",
+        "text": "For example:"
+      },
+      {
+        "kind": "bullet",
+        "text": "Language preferences."
+      },
+      {
+        "kind": "bullet",
+        "text": "Display preferences."
+      },
+      {
+        "kind": "bullet",
+        "text": "Other website settings."
+      }
+    ]
+  },
+  {
+    "id": "section-3-4",
+    "number": "3.4",
+    "heading": "Marketing and Advertising Cookies",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "If implemented, these technologies may help measure marketing activity, understand visitor engagement or support relevant advertising."
+      },
+      {
+        "kind": "paragraph",
+        "text": "They may be provided by third-party marketing or advertising services."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Non-essential marketing cookies should only be used where the required consent or other lawful basis has been obtained."
+      }
+    ]
+  },
+  {
+    "id": "section-4",
+    "number": "4",
+    "heading": "Third-Party Cookies and Technologies",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "Some website features may be provided by third-party services."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Depending on the services implemented, these providers may place or access cookies or similar technologies."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Examples may include:"
+      },
+      {
+        "kind": "bullet",
+        "text": "Website analytics services."
+      },
+      {
+        "kind": "bullet",
+        "text": "Embedded video or media."
+      },
+      {
+        "kind": "bullet",
+        "text": "Meeting or scheduling tools."
+      },
+      {
+        "kind": "bullet",
+        "text": "Website security services."
+      },
+      {
+        "kind": "bullet",
+        "text": "Marketing and advertising tools."
+      },
+      {
+        "kind": "bullet",
+        "text": "Social media integrations."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Third-party providers may process information in accordance with their own privacy policies and terms."
+      },
+      {
+        "kind": "paragraph",
+        "text": "KomKast does not control cookies placed independently by third-party websites when you visit those websites."
+      }
+    ]
+  },
+  {
+    "id": "section-5",
+    "number": "5",
+    "heading": "Managing Cookie Preferences",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "Where a cookie preference or consent mechanism is provided, visitors may be able to:"
+      },
+      {
+        "kind": "bullet",
+        "text": "Accept all cookies."
+      },
+      {
+        "kind": "bullet",
+        "text": "Reject non-essential cookies."
+      },
+      {
+        "kind": "bullet",
+        "text": "Select specific cookie categories."
+      },
+      {
+        "kind": "bullet",
+        "text": "Change or withdraw previously given consent."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Strictly necessary cookies may continue to operate where required for website functionality."
+      },
+      {
+        "kind": "paragraph",
+        "text": "You may also manage cookies through your browser settings, including blocking or deleting cookies."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Please note that disabling certain cookies may affect website functionality or the availability of some features."
+      }
+    ]
+  },
+  {
+    "id": "section-6",
+    "number": "6",
+    "heading": "Consent and Applicable Requirements",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "Cookie requirements may vary depending on the visitor's location and applicable law."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Where required, KomKast will seek consent before placing or accessing non-essential cookies or similar technologies."
+      },
+      {
+        "kind": "paragraph",
+        "text": "The website's actual cookie practices and consent mechanism should reflect the technologies in use and the legal requirements applicable to visitors."
+      }
+    ]
+  },
+  {
+    "id": "section-7",
+    "number": "7",
+    "heading": "Changes to This Cookie Policy",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "We may update this Cookie Policy when our website, technologies, business practices or applicable requirements change."
+      },
+      {
+        "kind": "paragraph",
+        "text": "The latest version will be published on this page with a revised \"Last Updated\" date."
+      }
+    ]
+  },
+  {
+    "id": "section-8",
+    "number": "8",
+    "heading": "Contact Us",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "For questions regarding cookies or website privacy, please contact:"
+      },
+      {
+        "kind": "paragraph",
+        "text": "KomKast Global Technologies LLC 1612 Bingham St UNIT B Houston, TX 77007 USA"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Email: hello@komkast.net. Website: https://komkast.net/"
+      }
+    ]
+  }
+]

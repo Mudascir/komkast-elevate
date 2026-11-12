@@ -1,0 +1,507 @@
+[
+  {
+    "id": "section-1",
+    "number": "1",
+    "heading": "Introduction and Acceptance",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "These Website Terms & Conditions (\"Terms\") govern your access to and use of the KomKast Global Technologies LLC (\"KomKast\", \"we\", \"us\" or \"our\") website."
+      },
+      {
+        "kind": "paragraph",
+        "text": "By accessing or using this website, you acknowledge that you have read and agree to these Terms."
+      },
+      {
+        "kind": "paragraph",
+        "text": "If you do not agree with these Terms, please discontinue use of the website."
+      },
+      {
+        "kind": "paragraph",
+        "text": "These Terms apply to the public website and its informational content. Separate agreements may govern the purchase, subscription, licensing, implementation or use of KomKast products and services."
+      }
+    ]
+  },
+  {
+    "id": "section-2",
+    "number": "2",
+    "heading": "About KomKast",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "KomKast Global Technologies LLC is a technology company based in Houston, Texas, USA, focused on business communication, AI-enabled customer engagement, CRM and business automation solutions for businesses worldwide."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Our primary commercial product is BotNFlow, an AI-enabled customer engagement, CRM and business automation platform."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Our website provides general information about KomKast, our products, capabilities, business activities and potential solutions."
+      }
+    ]
+  },
+  {
+    "id": "section-3",
+    "number": "3",
+    "heading": "Permitted Website Use",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "You may use this website for lawful purposes, including:"
+      },
+      {
+        "kind": "bullet",
+        "text": "Learning about KomKast and its solutions."
+      },
+      {
+        "kind": "bullet",
+        "text": "Reviewing product and business information."
+      },
+      {
+        "kind": "bullet",
+        "text": "Submitting business inquiries."
+      },
+      {
+        "kind": "bullet",
+        "text": "Requesting a consultation or product demonstration."
+      },
+      {
+        "kind": "bullet",
+        "text": "Exploring potential business or partnership opportunities."
+      },
+      {
+        "kind": "bullet",
+        "text": "Accessing publicly available resources."
+      },
+      {
+        "kind": "paragraph",
+        "text": "You agree not to use the website in any manner that violates applicable laws or these Terms."
+      }
+    ]
+  },
+  {
+    "id": "section-4",
+    "number": "4",
+    "heading": "Prohibited Activities",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "You must not:"
+      },
+      {
+        "kind": "bullet",
+        "text": "Use the website for unlawful, fraudulent or misleading purposes."
+      },
+      {
+        "kind": "bullet",
+        "text": "Attempt to gain unauthorized access to the website, its systems or related infrastructure."
+      },
+      {
+        "kind": "bullet",
+        "text": "Interfere with the operation, availability or security of the website."
+      },
+      {
+        "kind": "bullet",
+        "text": "Introduce malicious software, harmful code or other disruptive material."
+      },
+      {
+        "kind": "bullet",
+        "text": "Attempt to compromise website security or exploit vulnerabilities without authorization."
+      },
+      {
+        "kind": "bullet",
+        "text": "Copy, reproduce or commercially exploit website content without permission, except where permitted by law."
+      },
+      {
+        "kind": "bullet",
+        "text": "Misrepresent KomKast, its products, services or business relationships."
+      },
+      {
+        "kind": "bullet",
+        "text": "Use automated methods to collect website information in a manner that violates applicable law or interferes with website operation."
+      },
+      {
+        "kind": "bullet",
+        "text": "Submit false, misleading or unauthorized information through website forms."
+      },
+      {
+        "kind": "paragraph",
+        "text": "We reserve the right to restrict or suspend access where we reasonably believe these Terms have been violated."
+      }
+    ]
+  },
+  {
+    "id": "section-5",
+    "number": "5",
+    "heading": "Website Content and Accuracy",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "We make reasonable efforts to ensure that information published on our website is accurate and current."
+      },
+      {
+        "kind": "paragraph",
+        "text": "However:"
+      },
+      {
+        "kind": "bullet",
+        "text": "Website content is provided for general informational purposes."
+      },
+      {
+        "kind": "bullet",
+        "text": "Product features and capabilities may change."
+      },
+      {
+        "kind": "bullet",
+        "text": "Certain features may depend on configuration, integrations or third-party services."
+      },
+      {
+        "kind": "bullet",
+        "text": "Availability may vary by customer, region or business requirements."
+      },
+      {
+        "kind": "bullet",
+        "text": "Information may be updated or removed without prior notice."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Nothing on this website constitutes a binding offer, quotation, technical specification, service-level commitment or contractual agreement unless expressly stated otherwise in a separate written agreement."
+      }
+    ]
+  },
+  {
+    "id": "section-6",
+    "number": "6",
+    "heading": "Products and Services",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "References to BotNFlow, AI automation, customer engagement, CRM, communication or other capabilities are provided for general information."
+      },
+      {
+        "kind": "paragraph",
+        "text": "The availability, features, integrations, pricing, implementation requirements, delivery timelines and commercial conditions of products and services may vary."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Any purchase, subscription, licence, deployment, implementation or other commercial engagement will be governed by the applicable written agreement, order, proposal, statement of work or other contractual document."
+      },
+      {
+        "kind": "paragraph",
+        "text": "In the event of a conflict between these website Terms and a separately executed customer agreement, the relevant customer agreement will govern the subject matter covered by that agreement."
+      }
+    ]
+  },
+  {
+    "id": "section-7",
+    "number": "7",
+    "heading": "No Professional or Technical Advice",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "Information published on this website is not intended to constitute legal, financial, regulatory, cybersecurity or other professional advice."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Any examples, recommendations or descriptions of potential business outcomes are general in nature."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Customers should independently evaluate their requirements and obtain appropriate professional advice where necessary."
+      }
+    ]
+  },
+  {
+    "id": "section-8",
+    "number": "8",
+    "heading": "Intellectual Property",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "Unless otherwise stated, website content, including:"
+      },
+      {
+        "kind": "bullet",
+        "text": "Text."
+      },
+      {
+        "kind": "bullet",
+        "text": "Graphics."
+      },
+      {
+        "kind": "bullet",
+        "text": "Logos."
+      },
+      {
+        "kind": "bullet",
+        "text": "Designs."
+      },
+      {
+        "kind": "bullet",
+        "text": "Images."
+      },
+      {
+        "kind": "bullet",
+        "text": "Documents."
+      },
+      {
+        "kind": "bullet",
+        "text": "Layouts."
+      },
+      {
+        "kind": "bullet",
+        "text": "Branding."
+      },
+      {
+        "kind": "bullet",
+        "text": "Other original materials."
+      },
+      {
+        "kind": "paragraph",
+        "text": "is owned by or licensed to KomKast and is protected by applicable intellectual property laws."
+      },
+      {
+        "kind": "paragraph",
+        "text": "You may not reproduce, modify, distribute, publish, transmit or commercially exploit website content without prior written permission, except where permitted by law."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Product names, third-party trademarks, logos and referenced services may belong to their respective owners."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Nothing in these Terms transfers ownership of any intellectual property to you."
+      }
+    ]
+  },
+  {
+    "id": "section-9",
+    "number": "9",
+    "heading": "User Submissions and Inquiries",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "When you submit information through our website, you are responsible for ensuring that the information is accurate and that you have the authority to provide it."
+      },
+      {
+        "kind": "paragraph",
+        "text": "You authorize KomKast to use the submitted information to:"
+      },
+      {
+        "kind": "bullet",
+        "text": "Respond to your inquiry."
+      },
+      {
+        "kind": "bullet",
+        "text": "Understand your business requirements."
+      },
+      {
+        "kind": "bullet",
+        "text": "Communicate with you regarding relevant products or solutions."
+      },
+      {
+        "kind": "bullet",
+        "text": "Arrange consultations or demonstrations."
+      },
+      {
+        "kind": "bullet",
+        "text": "Conduct related business communications."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Such processing is subject to our Privacy Policy and applicable law."
+      },
+      {
+        "kind": "paragraph",
+        "text": "You should not submit confidential, sensitive or proprietary information through general website forms unless an appropriate process has been agreed."
+      }
+    ]
+  },
+  {
+    "id": "section-10",
+    "number": "10",
+    "heading": "Third-Party Services and Links",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "Our website may contain links to third-party websites, platforms, services or resources."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Such links are provided for convenience and do not necessarily constitute an endorsement."
+      },
+      {
+        "kind": "paragraph",
+        "text": "KomKast does not control and is not responsible for the availability, accuracy, security, content or privacy practices of third-party websites or services."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Your use of third-party services is subject to their respective terms and policies."
+      }
+    ]
+  },
+  {
+    "id": "section-11",
+    "number": "11",
+    "heading": "Website Availability",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "We aim to maintain reliable website availability but do not guarantee that the website will always be available, uninterrupted, secure or error-free."
+      },
+      {
+        "kind": "paragraph",
+        "text": "We may temporarily suspend, modify or restrict access to the website for maintenance, updates, security, operational or other legitimate reasons."
+      }
+    ]
+  },
+  {
+    "id": "section-12",
+    "number": "12",
+    "heading": "Disclaimer of Warranties",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "To the maximum extent permitted by applicable law, this website and its content are provided on an \"as is\" and \"as available\" basis."
+      },
+      {
+        "kind": "paragraph",
+        "text": "KomKast does not warrant that:"
+      },
+      {
+        "kind": "bullet",
+        "text": "The website will always be available or uninterrupted."
+      },
+      {
+        "kind": "bullet",
+        "text": "Website content will always be complete, current or error-free."
+      },
+      {
+        "kind": "bullet",
+        "text": "The website will be free from all security vulnerabilities."
+      },
+      {
+        "kind": "bullet",
+        "text": "Website information will meet every visitor's individual requirements."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Nothing in these Terms excludes warranties or rights that cannot legally be excluded."
+      }
+    ]
+  },
+  {
+    "id": "section-13",
+    "number": "13",
+    "heading": "Limitation of Liability",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "To the maximum extent permitted by applicable law, KomKast shall not be liable for indirect, incidental, special, punitive or consequential damages arising from or related to your access to or use of the website."
+      },
+      {
+        "kind": "paragraph",
+        "text": "This may include loss of profits, business opportunities, data or goodwill, where such exclusion is permitted by law."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Nothing in these Terms excludes or limits liability that cannot legally be excluded or limited."
+      },
+      {
+        "kind": "paragraph",
+        "text": "These limitations apply only to the extent permitted by applicable law."
+      }
+    ]
+  },
+  {
+    "id": "section-14",
+    "number": "14",
+    "heading": "Indemnification",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "To the extent permitted by applicable law, you agree to be responsible for losses, claims, liabilities and reasonable expenses arising directly from your unlawful use of the website, your violation of these Terms or your infringement of another party's rights."
+      },
+      {
+        "kind": "paragraph",
+        "text": "This provision does not apply to the extent that the relevant loss results from KomKast's own unlawful conduct or liability that cannot legally be transferred."
+      }
+    ]
+  },
+  {
+    "id": "section-15",
+    "number": "15",
+    "heading": "Governing Law and Jurisdiction",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "These Terms shall be governed by the applicable laws of the State of Texas and applicable federal laws of the United States, without regard to conflict-of-law principles, unless otherwise required by applicable law."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Any dispute arising from these Terms or the use of this website shall be subject to the jurisdiction of the competent courts in Texas, USA, except where applicable law provides otherwise."
+      }
+    ]
+  },
+  {
+    "id": "section-16",
+    "number": "16",
+    "heading": "Changes to These Terms",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "KomKast may update these Terms from time to time to reflect changes in our website, business, products or applicable legal requirements."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Updated Terms will be published on this page with a revised \"Last Updated\" date."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Your continued use of the website after publication of updated Terms constitutes acceptance to the extent permitted by applicable law."
+      }
+    ]
+  },
+  {
+    "id": "section-17",
+    "number": "17",
+    "heading": "Severability",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "If any provision of these Terms is found to be invalid or unenforceable, the remaining provisions shall continue in effect to the extent permitted by law."
+      }
+    ]
+  },
+  {
+    "id": "section-18",
+    "number": "18",
+    "heading": "Entire Agreement",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "These Terms govern your use of the public KomKast website and constitute the agreement between you and KomKast concerning that use, subject to any applicable separate written agreement."
+      }
+    ]
+  },
+  {
+    "id": "section-19",
+    "number": "19",
+    "heading": "Contact Us",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "For questions regarding these Terms, please contact:"
+      },
+      {
+        "kind": "paragraph",
+        "text": "KomKast Global Technologies LLC 1612 Bingham St UNIT B Houston, TX 77007 USA"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Email: hello@komkast.net. Website: https://komkast.net/"
+      }
+    ]
+  }
+]
