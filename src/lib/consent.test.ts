@@ -1,4 +1,5 @@
-import { beforeEach, describe, expect, test } from "bun:test";
+import { beforeEach, describe, test } from "node:test";
+import { strict as assert } from "node:assert";
 import { canTrack, readChoice, saveChoices } from "./consent";
 
 let saved = new Map<string, string>();
@@ -15,24 +16,24 @@ beforeEach(() => {
 describe("cookie choices", () => {
   test("Reject all denies analytics", async () => {
     saveChoices({ analytics: "denied" });
-    expect(await canTrack("analytics")).toBe(false);
+    assert.equal(await canTrack("analytics"), false);
   });
   test("Accept all grants analytics", async () => {
     saveChoices({ analytics: "granted" });
-    expect(await canTrack("analytics")).toBe(true);
+    assert.equal(await canTrack("analytics"), true);
   });
   test("a later refusal replaces an acceptance", async () => {
     saveChoices({ analytics: "granted" });
     saveChoices({ analytics: "denied" });
-    expect(await canTrack("analytics")).toBe(false);
+    assert.equal(await canTrack("analytics"), false);
   });
   test("Global Privacy Control overrides acceptance", async () => {
     saveChoices({ analytics: "granted" });
     Object.defineProperty(globalThis, "navigator", { configurable: true, value: { globalPrivacyControl: true } });
-    expect(await canTrack("analytics")).toBe(false);
+    assert.equal(await canTrack("analytics"), false);
   });
   test("analytics permission does not grant advertising", () => {
     saveChoices({ analytics: "granted" });
-    expect(readChoice("advertising")).toBe(null);
+    assert.equal(readChoice("advertising"), null);
   });
 });
