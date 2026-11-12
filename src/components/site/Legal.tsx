@@ -18,7 +18,7 @@ export type LegalBlock = {
 const policies = [
   { to: "/privacy-policy", label: "Privacy Policy" },
   { to: "/cookie-policy", label: "Cookie Policy" },
-  { to: "/terms-of-use", label: "Terms of Use" },
+  { to: "/terms-of-use", label: "Terms & Conditions" },
 ] as const;
 
 /** Paragraph inside a legal section. */
@@ -52,8 +52,8 @@ export function ContactBlock() {
         <p>Houston, TX 77007, USA</p>
         <p>
           Email:{" "}
-          <a className="font-medium text-primary hover:underline" href="mailto:info@komkast.net">
-            info@komkast.net
+          <a className="font-medium text-primary hover:underline" href="mailto:hello@komkast.net">
+            hello@komkast.net
           </a>
         </p>
         <p>

@@ -1,0 +1,690 @@
+[
+  {
+    "id": "section-1",
+    "number": "1",
+    "heading": "What is KomKast?",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "KomKast Global Technologies LLC is a technology company focused on business communication, AI-enabled customer engagement, CRM and business automation solutions for businesses worldwide."
+      },
+      {
+        "kind": "paragraph",
+        "text": "We develop and offer practical technology solutions designed to help organizations improve communication, customer experiences, operational efficiency and business growth."
+      }
+    ]
+  },
+  {
+    "id": "section-2",
+    "number": "2",
+    "heading": "Where is KomKast based?",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "KomKast Global Technologies LLC is based in Houston, Texas, USA, and works with customers and business partners across international markets."
+      }
+    ]
+  },
+  {
+    "id": "section-3",
+    "number": "3",
+    "heading": "Which businesses does KomKast serve?",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "We work with businesses ranging from small and medium-sized businesses (SMBs) to larger enterprises across different industries."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Our solutions are designed for organizations looking to improve customer engagement, streamline business communication and automate operational processes."
+      }
+    ]
+  },
+  {
+    "id": "section-4",
+    "number": "4",
+    "heading": "What does KomKast offer?",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "Our current commercial focus is on:"
+      },
+      {
+        "kind": "bullet",
+        "text": "BotNFlow – an AI-enabled customer engagement, CRM and business automation platform."
+      },
+      {
+        "kind": "bullet",
+        "text": "AI-powered automation solutions designed around business requirements."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Our product and solution portfolio may evolve as new capabilities and offerings are introduced."
+      }
+    ]
+  },
+  {
+    "id": "section-5",
+    "number": "5",
+    "heading": "What is BotNFlow?",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "BotNFlow is an AI-enabled customer engagement, CRM and business automation platform."
+      },
+      {
+        "kind": "paragraph",
+        "text": "It brings customer communication, lead generation, calling, CRM, sales pipeline management, campaigns, bookings, analytics and workflow automation together in one connected environment."
+      }
+    ]
+  },
+  {
+    "id": "section-6",
+    "number": "6",
+    "heading": "What business problems does BotNFlow address?",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "BotNFlow is designed to help businesses address challenges such as:"
+      },
+      {
+        "kind": "bullet",
+        "text": "Managing customer conversations across multiple channels."
+      },
+      {
+        "kind": "bullet",
+        "text": "Handling large volumes of customer inquiries."
+      },
+      {
+        "kind": "bullet",
+        "text": "Managing and qualifying leads."
+      },
+      {
+        "kind": "bullet",
+        "text": "Organizing sales activities and pipelines."
+      },
+      {
+        "kind": "bullet",
+        "text": "Maintaining consistent customer follow-ups."
+      },
+      {
+        "kind": "bullet",
+        "text": "Automating repetitive business processes."
+      },
+      {
+        "kind": "bullet",
+        "text": "Managing appointments and bookings."
+      },
+      {
+        "kind": "bullet",
+        "text": "Improving operational visibility and team performance."
+      }
+    ]
+  },
+  {
+    "id": "section-7",
+    "number": "7",
+    "heading": "Which communication channels does BotNFlow support?",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "BotNFlow supports customer engagement through:"
+      },
+      {
+        "kind": "bullet",
+        "text": "WhatsApp."
+      },
+      {
+        "kind": "bullet",
+        "text": "Email."
+      },
+      {
+        "kind": "bullet",
+        "text": "SMS."
+      },
+      {
+        "kind": "bullet",
+        "text": "Voice."
+      },
+      {
+        "kind": "bullet",
+        "text": "Website Live Chat."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Specific channel functionality and availability depend on the applicable configuration and integrations."
+      }
+    ]
+  },
+  {
+    "id": "section-8",
+    "number": "8",
+    "heading": "Does BotNFlow support inbound and outbound calling?",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "Yes. BotNFlow supports both inbound and outbound calling."
+      },
+      {
+        "kind": "paragraph",
+        "text": "It also provides calling-related capabilities such as browser-based calling, call recording and history, sales dialer and callback management."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Specific calling arrangements and availability should be discussed with our team."
+      }
+    ]
+  },
+  {
+    "id": "section-9",
+    "number": "9",
+    "heading": "Does BotNFlow support SMS?",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "Yes. BotNFlow supports outbound SMS communication and SMS campaigns."
+      },
+      {
+        "kind": "paragraph",
+        "text": "SMS campaigns can be used for:"
+      },
+      {
+        "kind": "bullet",
+        "text": "Promotional offers."
+      },
+      {
+        "kind": "bullet",
+        "text": "Product announcements."
+      },
+      {
+        "kind": "bullet",
+        "text": "Urgent alerts."
+      },
+      {
+        "kind": "bullet",
+        "text": "Event reminders."
+      },
+      {
+        "kind": "bullet",
+        "text": "Mass notifications."
+      },
+      {
+        "kind": "paragraph",
+        "text": "BotNFlow also has inbound SMS functionality. Please contact our team to confirm the latest availability and supported configuration."
+      }
+    ]
+  },
+  {
+    "id": "section-10",
+    "number": "10",
+    "heading": "Does BotNFlow offer a unified inbox?",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "Yes. BotNFlow provides a centralized environment for managing customer conversations across supported communication channels."
+      },
+      {
+        "kind": "paragraph",
+        "text": "This helps teams maintain customer context and coordinate interactions."
+      }
+    ]
+  },
+  {
+    "id": "section-11",
+    "number": "11",
+    "heading": "Does BotNFlow include CRM functionality?",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "Yes. BotNFlow includes CRM capabilities such as:"
+      },
+      {
+        "kind": "bullet",
+        "text": "Contact management."
+      },
+      {
+        "kind": "bullet",
+        "text": "Customer history."
+      },
+      {
+        "kind": "bullet",
+        "text": "Tags and notes."
+      },
+      {
+        "kind": "bullet",
+        "text": "Custom fields."
+      },
+      {
+        "kind": "bullet",
+        "text": "Opportunity tracking."
+      },
+      {
+        "kind": "bullet",
+        "text": "Deal management."
+      },
+      {
+        "kind": "bullet",
+        "text": "Sales pipeline visibility."
+      },
+      {
+        "kind": "bullet",
+        "text": "Team assignment."
+      },
+      {
+        "kind": "bullet",
+        "text": "Win/loss tracking."
+      }
+    ]
+  },
+  {
+    "id": "section-12",
+    "number": "12",
+    "heading": "Can BotNFlow help generate leads?",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "Yes. BotNFlow includes lead discovery, website analysis, lead enrichment, lead scoring and lead profiles to help businesses identify and prioritize potential opportunities."
+      },
+      {
+        "kind": "paragraph",
+        "text": "The availability and accuracy of lead information may vary depending on the source and region."
+      }
+    ]
+  },
+  {
+    "id": "section-13",
+    "number": "13",
+    "heading": "Does BotNFlow support AI chatbots?",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "Yes. BotNFlow supports AI chatbots that can respond to customer inquiries and use business-provided information and instructions."
+      }
+    ]
+  },
+  {
+    "id": "section-14",
+    "number": "14",
+    "heading": "Can BotNFlow automate business workflows?",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "Yes. BotNFlow provides visual, no-code workflow automation to help businesses connect activities and reduce repetitive manual work."
+      }
+    ]
+  },
+  {
+    "id": "section-15",
+    "number": "15",
+    "heading": "Can BotNFlow manage appointments and bookings?",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "Yes. BotNFlow supports public booking pages, availability management, calendar connectivity, meeting links and automated reminders."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Specific integration requirements should be confirmed with our team."
+      }
+    ]
+  },
+  {
+    "id": "section-16",
+    "number": "16",
+    "heading": "Does BotNFlow support marketing campaigns?",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "Yes. BotNFlow supports WhatsApp, email and SMS campaign capabilities."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Businesses can use these capabilities to communicate with targeted audiences, share updates and manage follow-up activities, subject to channel availability and applicable messaging requirements."
+      }
+    ]
+  },
+  {
+    "id": "section-17",
+    "number": "17",
+    "heading": "Does BotNFlow provide analytics and reporting?",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "Yes. BotNFlow provides visibility into areas such as:"
+      },
+      {
+        "kind": "bullet",
+        "text": "Agent activity."
+      },
+      {
+        "kind": "bullet",
+        "text": "Campaign performance."
+      },
+      {
+        "kind": "bullet",
+        "text": "Conversations."
+      },
+      {
+        "kind": "bullet",
+        "text": "Leads."
+      },
+      {
+        "kind": "bullet",
+        "text": "Response times."
+      },
+      {
+        "kind": "bullet",
+        "text": "Operational activities."
+      },
+      {
+        "kind": "paragraph",
+        "text": "The available analytics depend on the configured capabilities."
+      }
+    ]
+  },
+  {
+    "id": "section-18",
+    "number": "18",
+    "heading": "Does BotNFlow provide alerts and monitoring?",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "Yes. BotNFlow includes alerts and monitoring capabilities to help businesses identify activities that need attention, including response-time warnings and other operational events."
+      }
+    ]
+  },
+  {
+    "id": "section-19",
+    "number": "19",
+    "heading": "Can BotNFlow be white-labelled?",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "Yes. BotNFlow supports white-label capabilities, including custom branding and custom-domain arrangements, subject to the applicable commercial agreement."
+      },
+      {
+        "kind": "paragraph",
+        "text": "This can be particularly useful for agencies, consultants and service providers that want to offer the platform under their own brand."
+      }
+    ]
+  },
+  {
+    "id": "section-20",
+    "number": "20",
+    "heading": "Can BotNFlow integrate with other business systems?",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "Integration requirements can be assessed based on the customer's needs."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Please share the systems you currently use and the integrations you require so that our product or technical team can review feasibility and availability."
+      }
+    ]
+  },
+  {
+    "id": "section-21",
+    "number": "21",
+    "heading": "Is BotNFlow suitable for every business?",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "Not necessarily. BotNFlow is particularly relevant to businesses that manage customer conversations, sales activities, leads, follow-ups or repetitive workflows."
+      },
+      {
+        "kind": "paragraph",
+        "text": "The most appropriate capabilities depend on the organization's business model and requirements."
+      }
+    ]
+  },
+  {
+    "id": "section-22",
+    "number": "22",
+    "heading": "Does KomKast provide customized solutions?",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "Yes. Where a standard product does not adequately address a customer's requirements, customized AI and business automation solutions may be explored."
+      },
+      {
+        "kind": "paragraph",
+        "text": "We begin by understanding the business process, identifying the challenge and assessing where technology or automation may create meaningful value."
+      }
+    ]
+  },
+  {
+    "id": "section-23",
+    "number": "23",
+    "heading": "Can KomKast help identify opportunities for AI and automation?",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "Yes. We prefer to begin with the business challenge rather than simply recommending a technology."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Our team can discuss your current processes, understand operational challenges and explore where AI or automation may be appropriate."
+      }
+    ]
+  },
+  {
+    "id": "section-24",
+    "number": "24",
+    "heading": "Which industries can benefit from KomKast solutions?",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "Potential industries include:"
+      },
+      {
+        "kind": "bullet",
+        "text": "Hospitality."
+      },
+      {
+        "kind": "bullet",
+        "text": "Travel and tourism."
+      },
+      {
+        "kind": "bullet",
+        "text": "Logistics."
+      },
+      {
+        "kind": "bullet",
+        "text": "Financial services."
+      },
+      {
+        "kind": "bullet",
+        "text": "Insurance."
+      },
+      {
+        "kind": "bullet",
+        "text": "FMCG and consumer goods."
+      },
+      {
+        "kind": "bullet",
+        "text": "Beauty, wellness and fitness."
+      },
+      {
+        "kind": "bullet",
+        "text": "Digital marketing agencies."
+      },
+      {
+        "kind": "bullet",
+        "text": "Real estate and property management."
+      },
+      {
+        "kind": "bullet",
+        "text": "Healthcare and medical services."
+      },
+      {
+        "kind": "bullet",
+        "text": "E-commerce and online retail."
+      },
+      {
+        "kind": "bullet",
+        "text": "Retail and consumer businesses."
+      },
+      {
+        "kind": "bullet",
+        "text": "Professional services and consulting."
+      },
+      {
+        "kind": "bullet",
+        "text": "Automotive and vehicle dealerships."
+      },
+      {
+        "kind": "bullet",
+        "text": "IT services and technology companies."
+      },
+      {
+        "kind": "bullet",
+        "text": "B2B wholesale and distribution."
+      },
+      {
+        "kind": "bullet",
+        "text": "Oil, gas and petroleum."
+      },
+      {
+        "kind": "paragraph",
+        "text": "The suitability of a solution depends on the customer's specific business requirements."
+      }
+    ]
+  },
+  {
+    "id": "section-25",
+    "number": "25",
+    "heading": "Can I request a product demonstration?",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "Yes. You can contact us through our website to discuss your requirements and request a suitable product demonstration or consultation."
+      },
+      {
+        "kind": "paragraph",
+        "text": "We recommend sharing some information about your business and the challenges you want to address so that the demonstration can be relevant to your needs."
+      }
+    ]
+  },
+  {
+    "id": "section-26",
+    "number": "26",
+    "heading": "How does KomKast approach customer relationships?",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "We believe in building long-term relationships based on trust, integrity, collaboration, innovation and meaningful business outcomes."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Our approach is to understand customer requirements, recommend practical solutions and support sustainable value creation."
+      }
+    ]
+  },
+  {
+    "id": "section-27",
+    "number": "27",
+    "heading": "Does KomKast work with international customers?",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "Yes. KomKast is based in the United States and works with customers and business partners across international markets."
+      }
+    ]
+  },
+  {
+    "id": "section-28",
+    "number": "28",
+    "heading": "Does KomKast work with business referral partners?",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "We welcome discussions with individuals and organizations interested in introducing relevant business opportunities and developing mutually beneficial referral relationships."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Potential partners can contact us to discuss the opportunity and applicable partnership arrangements."
+      }
+    ]
+  },
+  {
+    "id": "section-29",
+    "number": "29",
+    "heading": "How can an agency or consultant work with KomKast?",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "Agencies, consultants and service providers may explore suitable commercial or strategic arrangements with KomKast, including opportunities relating to BotNFlow and its white-label capabilities."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Please contact our team to discuss your business model and requirements."
+      }
+    ]
+  },
+  {
+    "id": "section-30",
+    "number": "30",
+    "heading": "How can I contact KomKast?",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "You can contact us through our website or directly at:"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Email: hello@komkast.net"
+      },
+      {
+        "kind": "paragraph",
+        "text": "KomKast Global Technologies LLC 1612 Bingham St UNIT B Houston, TX 77007 USA"
+      }
+    ]
+  },
+  {
+    "id": "section-31",
+    "number": "31",
+    "heading": "How do I start a conversation with KomKast?",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "Simply tell us:"
+      },
+      {
+        "kind": "bullet",
+        "text": "What your business does."
+      },
+      {
+        "kind": "bullet",
+        "text": "What challenge you are trying to solve."
+      },
+      {
+        "kind": "bullet",
+        "text": "Which process you want to improve."
+      },
+      {
+        "kind": "bullet",
+        "text": "What outcome you are looking for."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Our team can then understand your requirements and determine whether BotNFlow or a customized solution may be appropriate."
+      }
+    ]
+  },
+  {
+    "id": "section-32",
+    "number": "32",
+    "heading": "What happens after I submit an inquiry?",
+    "items": [
+      {
+        "kind": "paragraph",
+        "text": "Our team will review your inquiry and contact you using the information provided."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Depending on your requirements, the next step may involve an introductory discussion, discovery session, consultation or product demonstration."
+      }
+    ]
+  }
+]
