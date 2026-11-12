@@ -2,7 +2,7 @@
   {
     "id": "profile-1",
     "number": "1",
-    "heading": "About Komkast",
+    "heading": "About KomKast",
     "items": [
       {
         "kind": "paragraph",
@@ -105,7 +105,7 @@
   {
     "id": "profile-6",
     "number": "6",
-    "heading": "Our Core Values  – Komkast Icare Principles",
+    "heading": "Our Core Values – KomKast iCARE Principles",
     "items": [
       {
         "kind": "paragraph",
@@ -250,7 +250,7 @@
   {
     "id": "profile-7-2",
     "number": "7.2",
-    "heading": "Ai-Powered Business & Workflow Automation",
+    "heading": "AI-Powered Business & Workflow Automation",
     "items": [
       {
         "kind": "paragraph",
@@ -312,7 +312,7 @@
   {
     "id": "profile-8-1",
     "number": "8.1",
-    "heading": "Botnflow (B&F)",
+    "heading": "BotNFlow (B&F)",
     "items": [
       {
         "kind": "heading",
@@ -725,14 +725,11 @@
       {
         "kind": "heading",
         "text": "KomKast Global Technologies LLC"
-      }
-    ]
-  },
-  {
-    "id": "profile-1612",
-    "number": "1612",
-    "heading": "Bingham St Unit B,Houston, Tx 77007, Usa.",
-    "items": [
+      },
+      {
+        "kind": "paragraph",
+        "text": "1612 Bingham St UNIT B, Houston, TX 77007, USA."
+      },
       {
         "kind": "heading",
         "text": "Email: hello@komkast.net"
