@@ -35,7 +35,7 @@ function AboutPage() {
           <p className="text-xs font-semibold uppercase text-muted-foreground">Company Profile</p>
           <ul className="mt-4 space-y-3 border-l border-border pl-4">{profile.filter(section => !section.number.includes(".")).map(section => <li key={section.id}><a href={`#${section.id}`} className="text-sm text-muted-foreground transition-colors hover:text-primary">{section.heading}</a></li>)}</ul>
         </nav>
-        <article className="min-w-0">{profile.map(section => <section key={section.id} id={section.id} className="scroll-mt-24 border-b border-border py-10 first:pt-0 last:border-0">
+        <article className="min-w-0 break-words [overflow-wrap:anywhere]">{profile.map(section => <section key={section.id} id={section.id} className="scroll-mt-24 border-b border-border py-10 first:pt-0 last:border-0">
           <h2 className="flex items-baseline gap-3 text-xl font-bold sm:text-2xl"><span className="text-sm tabular-nums text-primary">{section.number}</span>{section.heading}</h2>
           <div className="mt-6 space-y-4">{section.items.map((item, index) => item.kind === "heading"
             ? <h3 key={index} className="pt-3 text-base font-bold">{item.text}</h3>
