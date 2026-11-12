@@ -1,6 +1,8 @@
 import { Linkedin } from "lucide-react";
 import { Link } from "@tanstack/react-router";
 import logo from "@/assets/komkast-logo.png";
+import { Button } from "@/components/ui/button";
+import { openCookieSettings } from "./CookieConsent";
 
 const quickLinks = [
   { label: "Home", href: "/#home" },
@@ -14,7 +16,8 @@ const quickLinks = [
 const legalLinks = [
   { label: "Privacy Policy", to: "/privacy-policy" },
   { label: "Cookie Policy", to: "/cookie-policy" },
-  { label: "Terms of Use", to: "/terms-of-use" },
+  { label: "Terms & Conditions", to: "/terms-of-use" },
+  { label: "FAQs", to: "/faqs" },
 ] as const;
 
 export function Footer() {
@@ -64,6 +67,7 @@ export function Footer() {
                 </li>
               ))}
             </ul>
+            <Button variant="link" onClick={openCookieSettings} className="mt-3 h-auto p-0 text-sm font-normal text-navy-foreground/70">Cookie settings</Button>
           </nav>
 
           <nav aria-label="Legal">
@@ -91,8 +95,8 @@ export function Footer() {
             <address className="mt-5 space-y-3 text-sm not-italic leading-relaxed text-navy-foreground/70">
               <p>1612 Bingham St UNIT B, Houston, TX 77007, USA</p>
               <p>
-                <a href="mailto:info@komkast.net" className="hover:text-navy-foreground">
-                  info@komkast.net
+                <a href="mailto:hello@komkast.net" className="hover:text-navy-foreground">
+                  hello@komkast.net
                 </a>
               </p>
               <p>

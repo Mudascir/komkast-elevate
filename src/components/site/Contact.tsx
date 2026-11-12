@@ -14,7 +14,7 @@ const details = [
     label: "Corporate Headquarters",
     value: "1612 Bingham St UNIT B, Houston, TX 77007, USA",
   },
-  { icon: Mail, label: "Email", value: "info@komkast.net", href: "mailto:info@komkast.net" },
+  { icon: Mail, label: "Email", value: "hello@komkast.net", href: "mailto:hello@komkast.net" },
   { icon: Globe, label: "Website", value: "komkast.net", href: "https://komkast.net/" },
 ];
 
